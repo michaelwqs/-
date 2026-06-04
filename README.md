@@ -1,2 +1,2 @@
-# -
+# Mathmatic Foundation
 讲解关于深度学习的数学基础知识
